@@ -1,3 +1,8 @@
+Atividades de Programação Orientada a Objetos (POO) - Java
+Este repositório contém as soluções de 25 questões de Programação Orientada a Objetos (POO) em Java.
+
+
+
 Exercícios Resolvidos
 EXE01 - Média Ponderada e Conceito
 
